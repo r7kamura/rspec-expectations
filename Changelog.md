@@ -16,8 +16,7 @@ Bug Fixes:
 
 Deprecations:
 
-* Add RSpec 4 deprecation warnings for syntax definition and usage of should expectations.
-  (Benoit Tigeot, #1301)
+* Add RSpec 4 deprecation warnings. (Benoit Tigeot, Phil Pirozhkov #1301)
 
 ### 3.10.1 / 2020-12-27
 [Full Changelog](http://github.com/rspec/rspec-expectations/compare/v3.10.0...v3.10.1)
